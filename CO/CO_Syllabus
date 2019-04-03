@@ -1,0 +1,58 @@
+Total Hours: 70 Hrs
+
+Module 1 (10 (T) + 7(P) Hours)
+Computer abstraction and technology: basic principles, hardware components, Measuring
+performance: evaluating, comparing and summarizing performance.
+Instructions: operations and operands of the computer hardware, representing instructions, making
+decision, supporting procedures, character manipulation, styles of addressing, starting a program.
+
+Module 2 (10 (T) + 7(P) Hours)
+Computer arithmetic: signed and unsigned numbers, addition and subtraction, logical operations,
+constructing an ALU, multiplication and division, floating point representation and arithmetic,
+Parallelism and computer arithmetic.
+
+Module 3 (10 (T) + 7(P) Hours)
+The processor: building a data path, simple and multicycle implementations, microprogramming,
+exceptions, Pipelining, pipeline data path and Control , hazards in pipelined processors
+
+Module 4 (12 (T) + 7(P) Hours)
+Memory hierarchy: caches, cache performance, virtual memory, common framework for memory
+hierarchies
+Input/output: I/O performance measures, types and characteristics of I/O devices, buses, interfaces in
+I/O devices, design of an I/O system, parallelism and I/O.
+
+
+References:
+1. D. A. Pattersen and J. L. Hennesy, Computer Organisation and Design: The Hardware/ Software Interface, 4/e, Morgan
+Kaufman, 2009.
+2. V. P. Heuring and H. F. Jordan, Computer System Design and Architecture, Prentice Hall, 2003.
+
+CS2004 COMPUTER ORGANIZATION
+Pre-requisite: Nil CORE
+L T P C
+3 0 2 4
+Course Outcomes:
+1. Engineering knowledge :Students will learn how to design a modern processor and how to
+measure the performance of a processor. Students will be able to classify the processor architecture
+of different company processors.
+2. Problem analysis : Students will be able to design an efficient processor and memory hierarchy
+employing hardware or software technology.
+3. Design/development of solutions : Learning this course will enhance the student’s ability to
+modify the processor design to achieve maximum performance based on other components in the
+system. Students will be able to write assembly language programs and run their program using
+MIPS simulator.
+4. Conduct investigations of complex problems : There will be event to
+ demonstrate programming proficiency using the various addressing modes and data transfer
+instructions of the target computer
+ develop the ability and confidence to use the fundamentals of computer organization as a tool
+in the engineering of digital systems
+5. Modern tool usage : Students will be familiar with NASM assembler, which is used for
+programming in Assembly Level Language that helps to deal with computer hardware.
+6. The engineer and society : Students can create awareness programme on software and hardware
+components and its scope in research fields considering “ in 2025” everything will be automated.
+7. Ethics : Students are strongly motivated to pursue good conduct and eradicating dishonesty,
+finding short-cut etc., to achieve in their profession. However, they are highly trained towards “if
+not able to trace, make an impact”
+8. Life-long learning
+This course will give a clear view of the processor architecture and related issues. The course impart
+a motivation to pursue research in the area of processor architecture.
