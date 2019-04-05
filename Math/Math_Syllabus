@@ -1,0 +1,52 @@
+Module 1: (9 hours)
+Review of basic linear algebra topics, Direct sum of vector spaces, Rank-nullity theorem and its proof,
+Matrix representation of linear transformation, change of basis, Invariant subspaces, Polynomials applied to
+operators, Upper triangular representation for complex operators, Diagonalisation, Invariant subspaces on
+real vector spaces.
+
+Module 2: (11 hours)
+Inner product spaces, Orthogonal basis, Orthogonal projection, Best approximation, Linear functional,
+Adjoint of a linear transformation, Self-adjoint and normal operators, Spectral theorem for normal operators
+on complex inner product spaces, Spectral theorem for self adjoint operators, Normal operators on real
+inner product spaces, Positive operators, Isometries.
+
+Module 3: (9 hours)
+Complex functions, Derivative, Analytic function, Cauchy-Riemann equations, Laplace’s equation.
+Geometry of analytic functions: Conformal mapping, Linear fractional Transformations, Schwarz - Christoffel
+transformation, Transformation by other functions.
+
+Module 4: (10 hours)
+Line integral in the Complex plane, Cauchy’s Integral Theorem, Cauchy’s Integral formula, Derivatives of
+analytic functions. Power series, Functions given by power series, Taylor series and Maclaurin series.
+Laurent’s series, Singularities and Zeros, Residue integration method, Evaluation of real integrals.
+
+Course Outcomes:
+
+Students will be able to :
+CO1: have sufficient knowledge about vector spaces, linear transformation and be able to use these to
+diagonalise symmetric matrices.
+
+CO2: have knowledge about different types of linear operators on inner product spaces and their spectral
+decomposition.
+
+CO3: be able to identify analytic functions and find harmonic conjugates.
+
+CO4: be able to find images of regions under complex transformations.
+
+CO5: be able to evaluate line integrals in the complex plane
+
+CO6: be able to use techniques of complex analysis to evaluate integrals of real valued functions.
+
+References:
+1. S. Axler, Linear algebra done right , 2/e, Springer, 2015.
+2. S. Lipschutz and M. Lipson, Schaum's outline of linear algebra , 6/e, McGraw-Hill, 2017.
+3. E. Kreyszig, H. Kreyszig, and E. J. Norminton, Advanced engineering mathematics: international
+student version , 10/e, New Delhi: Wiley, 2015.
+4. C. R. Wylie and L. C. Barrett, Advanced engineering mathematics , 6/e, McGraw-Hill, 1995.
+
+MA2003D MATHEMATICS IV
+Prerequisites: MA1001D Mathematics I, MA1002D Mathematics II
+L T P C
+3 1 0 3
+Total Hours: 39
+
